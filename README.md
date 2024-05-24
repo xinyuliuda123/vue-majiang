@@ -1,6 +1,6 @@
 # majiang
 
-## Project setup
+## Project setup ggg
 ```
 yarn install
 ```
